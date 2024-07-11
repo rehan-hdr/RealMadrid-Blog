@@ -75,9 +75,13 @@ A blog website developed as a hub for everything RealMadrid related, from the la
 
 
 Install Xampp
+
 Clone this repository
+
 Copy the project into 'xampp/htdocs'
+
 Go to 'localhost/phpmyadmin' and create a database named 'signupforms'
+
 Go through the source code and create schema accordingly
 
 Make a 'connect.php' file. Add the following, filling in your details
