@@ -7,22 +7,22 @@ A blog website developed as a hub for everything RealMadrid related, from the la
 ## Main Features
 
 
-User authentication (signup, login, password recovery)
+* User authentication (signup, login, password recovery)
 
 
-Dynamic content display (news articles, player profiles, image and video galleries)
+* Dynamic content display (news articles, player profiles, image and video galleries)
 
 
-Responsive web design for optimal viewing on all devices
+* Responsive web design for optimal viewing on all devices
 
 
-Search functionality for quick access to specific content
+* Search functionality for quick access to specific content
 
 
-Content management interface for administrators
+* Content management interface for administrators
 
 
-Secure user authentication and data storage
+* Secure user authentication and data storage
 
 
 ## UI & Screenshots
@@ -34,22 +34,22 @@ Secure user authentication and data storage
 
 ### Frontend:
 
-HTML
-CSS (using Bootstrap)
-JavaScript (using jQuery)
+* HTML
+* CSS (using Bootstrap)
+* JavaScript (using jQuery)
 
 
 ### Backend:
 
-PHP
-MySQL
+* PHP
+* MySQL
 
 
 ### Libraries and Frameworks:
 
-Bootstrap (CSS framework)
-jQuery (JavaScript library)
-PHP PDO (PHP Data Objects)
+* Bootstrap (CSS framework)
+* jQuery (JavaScript library)
+* PHP PDO (PHP Data Objects)
 
 
 ## Run this project on your own device
